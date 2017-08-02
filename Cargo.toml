@@ -1,0 +1,11 @@
+[package]
+name = "web"
+version = "0.1.0"
+authors = ["tennix <ztennix@gmail.com>"]
+
+[dependencies]
+rocket = "0.3"
+rocket_codegen = "0.3"
+git2 = "0.6"
+comrak = "0.1"
+lazy_static = "0.2"
